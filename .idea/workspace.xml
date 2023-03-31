@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e648df-3d57-43ca-b470-f360af295bac" name="Changes" comment="hover btn update">
+    <list default="true" id="02e648df-3d57-43ca-b470-f360af295bac" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +63,31 @@
       <option name="presentableId" value="Default" />
       <updated>1680191323899</updated>
       <workItem from="1680191325309" duration="14566000" />
-      <workItem from="1680277098248" duration="307000" />
+      <workItem from="1680277098248" duration="1070000" />
     </task>
+    <task id="LOCAL-00001" summary="torque converter added">
+      <created>1680277513191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277513191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="syntax error fixed">
+      <created>1680277764981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277764981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="torque converter added" />
+    <MESSAGE value="syntax error fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="syntax error fixed" />
   </component>
 </project>
