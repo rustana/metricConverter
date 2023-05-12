@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e648df-3d57-43ca-b470-f360af295bac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02e648df-3d57-43ca-b470-f360af295bac" name="Changes" comment="viewport scale=1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +63,7 @@
       <workItem from="1680191325309" duration="14566000" />
       <workItem from="1680277098248" duration="1776000" />
       <workItem from="1680726613866" duration="743000" />
+      <workItem from="1683903763063" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="torque converter added">
       <created>1680277513191</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680280869641</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="viewport scale=1">
+      <created>1683903894887</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683903894887</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +103,7 @@
     <MESSAGE value="torque converter added" />
     <MESSAGE value="syntax error fixed" />
     <MESSAGE value="safari font size update" />
-    <option name="LAST_COMMIT_MESSAGE" value="safari font size update" />
+    <MESSAGE value="viewport scale=1" />
+    <option name="LAST_COMMIT_MESSAGE" value="viewport scale=1" />
   </component>
 </project>
